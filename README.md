@@ -4,4 +4,5 @@ Repositório criado para armazenar a resolução dos desafios do teste do progra
 
 **Candidato:** Ícaro Pavan
 
-Os desafios foram resolvidos através da linguagem C.
+Os desafios em código foram resolvidos através da linguagem C.
+Os outros desafios estão descritos no documento .txt também, caso necessário.
