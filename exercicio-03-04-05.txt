@@ -1,0 +1,11 @@
+Exercício 03) O código terá 11 iterações, nas quais a cada iteração a variável K terá o valor da iteração mais um. Dessa forma, basta somarmos de 2 a 12 na variável SOMA, complementando o resultado, dessa forma, teremos o valor 77 ao final da execução.
+
+Exercício 04
+a) 9, números ímpares
+b) 128, próximo é o dobro do anterior
+c) 49, sequência dos números naturais ao quadrado
+d) 100, sequência dos números pares ao quadrado
+e) 13, o próximo é a soma dos dois anteriores (fibonacci)
+f) 200, todos os números começam com a letra D
+
+Exercício 5) Eu acenderia uma lâmpada e esperaria um tempo, depois de alguns minutos apagaria a lâmpada acesa e acenderia outra. Assim, iria para a primeira sala. Se a lâmpada estiver acesa, já saberia que corresponde ao segundo interruptor, se ela estiver apagada mas quente, quer dizer que ela esteve acesa por um tempo, então corresponde ao primeiro interruptor, se ela estiver apagada e fria, ela corresponde ao terceiro interruptor, que não foi apertado. Depois, passaria para a próxima sala e aplicaria a mesma lógica. Dessa forma, iria descobrir quais são os interruptores para as duas primeiras salas, podendo deduzir que a última corresponde ao interruptor que resta.
